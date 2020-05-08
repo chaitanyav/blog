@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://chaitanyav.github.io/"
 languageCode = "en-us"
 title = "Code Musings"
 theme = "hugo_theme_pickles"
+publishDir = "chaitanyav.github.io"
 [params]
   avatar = "/avatar.png"
   github = "chaitanyav"
