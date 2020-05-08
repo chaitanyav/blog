@@ -1,7 +1,6 @@
 ---
 title: "Origami"
 date: 2020-05-08T10:03:40-07:00
-draft: true
 ---
 ## Models based on [Geometric Origami by Faye E. Goldman](http://www.amazon.com/Geometric-Origami-Books-Faye-Goldman/dp/160710976X)
 <div>

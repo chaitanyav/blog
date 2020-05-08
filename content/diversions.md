@@ -1,7 +1,6 @@
 ---
 title: "Diversions"
 date: 2020-05-08T10:43:33-07:00
-draft: true
 ---
 <div style="font-family: 'NTR'; font-size: x-large;">
 <h3><u><cite>కళ&#3134;రవ&#3135;, మహ&#3134;ప&#3149;రస&#3149;థ&#3134;న&#3074; - శ&#3149;ర&#3136;శ&#3149;ర&#3136;</cite></u></h3><br/>

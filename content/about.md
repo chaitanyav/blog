@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2020-05-08T10:52:09-07:00
-draft: true
 ---
 I am a Software Engineer, hacker, web developer, mathematics lover and a amatuer photographer.
 

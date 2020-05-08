@@ -1,7 +1,6 @@
 ---
 title: "Fractals"
 date: 2020-05-08T10:35:27-07:00
-draft: true
 ---
 <b>Note:</b> All the fractals below are drawn using OpenGL/CUDA. Source code <a href="https://github.com/chaitanyav/opengl" target="_blank">OpenGL</a>, <a href="https://github.com/chaitanyav/CUDA" target="_blank">CUDA</a>
 <div>
