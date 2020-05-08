@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Code Musings"
+theme = "hugo_theme_pickles"
+[params]
+  avatar = "/avatar.png"
+  github = "chaitanyav"
+  contact = "mailto:pnagato@protonmail.com"
+  linkedin = "nagachaitanya"
+  custom_css = ["/css/custom.css"]
+[markup]
+  defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+	unsafe = true
+
+[[menu.main]]
+  name = "Origami"
+  url = "/origami"
+  weight = 100
+[[menu.main]]
+  name = "Fractals"
+  url = "/fractals"
+  weight = 100
+[[menu.main]]
+  name = "Diversions"
+  url = "/diversions"
+  weight = 100
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 100
