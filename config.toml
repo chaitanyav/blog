@@ -1,4 +1,4 @@
-baseURL = "http://chaitanyav.github.io/"
+baseURL = "https://chaitanyav.github.io/"
 languageCode = "en-us"
 title = "Code Musings"
 theme = "hugo_theme_pickles"
