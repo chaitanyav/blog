@@ -6,7 +6,7 @@ I am a Software Engineer, hacker, web developer, mathematics lover and a amatuer
 
 ## Links to my work:
 
-* [OneUpFeeds](http://www.oneupfeeds.com/) My personal RSS feed reader
+* ~~[OneUpFeeds](http://www.oneupfeeds.com/) My personal RSS feed reader~~
 * [CS229 Project: Separation of Speech From Noise Challenge](http://cs229.stanford.edu/proj2012/Vellanki-SeparationOfSpeechFromNoiseChallenge.pdf)
 * [SVD and its applications in image processing](https://www.dropbox.com/s/zz9j4j9zfhqpoic/535_441_project.pdf?dl=0)
 * [Balancing chemical equations using Gaussian Elimination](https://www.dropbox.com/s/lny2rk0kodoi3at/EN.535.441_project_1.pdf?dl=0)
@@ -15,10 +15,10 @@ I am a Software Engineer, hacker, web developer, mathematics lover and a amatuer
 * [UVA Judge Status Page](http://uhunt.felix-halim.net/id/43584)
 * [RubyGems](https://rubygems.org/profiles/chaitanyav)
     * [Fibonacci](https://rubygems.org/gems/fibonacci)
-        * [Partitions](https://rubygems.org/gems/partitions)
-	* [RubyOnRails Contribution](http://contributors.rubyonrails.org/contributors/chaitanya-vellanki/commits)
-	* [Folding@Home Contribution](http://folding.stanford.edu/stats/donor/1679080)
-	* [Flick Photosets](http://www.flickr.com/photos/76625390@N03/sets/)
+    * [Partitions](https://rubygems.org/gems/partitions)
+* [RubyOnRails Contribution](http://contributors.rubyonrails.org/contributors/chaitanya-vellanki/commits)
+* [Folding@Home Contribution](http://folding.stanford.edu/stats/donor/1679080)
+* [Flick Photosets](http://www.flickr.com/photos/76625390@N03/sets/)
 
 
 ## Clarion Alley, San Francisco
