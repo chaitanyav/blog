@@ -13,10 +13,6 @@ I am a Software Engineer, hacker, web developer, mathematics lover and a amatuer
 * [Laplace Transform Application, Solving Differential Equations describing a projectile in motion](https://www.dropbox.com/s/chc9pfey42crueu/team8_discussion_activity_2.pdf?dl=0)
 * [Spam Classification using Naive Bayes](https://www.dropbox.com/s/edzek6as35i2vsu/spam_classification.pdf?dl=0)
 * [UVA Judge Status Page](http://uhunt.felix-halim.net/id/43584)
-* [RubyGems](https://rubygems.org/profiles/chaitanyav)
-    * [Fibonacci](https://rubygems.org/gems/fibonacci)
-    * [Partitions](https://rubygems.org/gems/partitions)
-* [RubyOnRails Contribution](http://contributors.rubyonrails.org/contributors/chaitanya-vellanki/commits)
 * [Folding@Home Contribution](http://folding.stanford.edu/stats/donor/1679080)
 * [Flick Photosets](http://www.flickr.com/photos/76625390@N03/sets/)
 

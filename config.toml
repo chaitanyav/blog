@@ -1,6 +1,6 @@
 baseURL = "https://chaitanyav.github.io/"
 languageCode = "en-us"
-title = "Code Musings"
+title = "My blog...."
 theme = "hugo_theme_pickles"
 publishDir = "chaitanyav.github.io"
 [params]
@@ -30,4 +30,8 @@ publishDir = "chaitanyav.github.io"
 [[menu.main]]
   name = "About"
   url = "/about"
+  weight = 100
+[[menu.main]]
+  name = "Open_Source"
+  url = "/open_source"
   weight = 100
