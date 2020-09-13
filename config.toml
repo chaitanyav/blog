@@ -33,6 +33,6 @@ publishDir = "chaitanyav.github.io"
   url = "/about"
   weight = 100
 [[menu.main]]
-  name = "Open_Source"
+  name = "Open Source"
   url = "/open_source"
   weight = 100

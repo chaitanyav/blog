@@ -1,7 +1,6 @@
 ---
-title: "Open_source"
+title: "Open Source"
 date: 2020-08-26T20:28:26-07:00
-draft: true
 ---
 
 I like to contribute to open source, here are links to some of my tiny contributions :pray:
