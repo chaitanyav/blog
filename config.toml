@@ -36,3 +36,6 @@ publishDir = "chaitanyav.github.io"
   name = "Open Source"
   url = "/open_source"
   weight = 100
+[[menu.main]]
+  name = "Posts"
+  url = "/posts"
