@@ -39,3 +39,6 @@ publishDir = "chaitanyav.github.io"
 [[menu.main]]
   name = "Posts"
   url = "/posts"
+[[menu.main]]
+  name = "Books Read"
+  url = "/books"
