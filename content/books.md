@@ -3,7 +3,7 @@ title: "Books Read"
 date: 2020-08-26T20:28:26-07:00
 ---
 
-I read a lot, here is a list of books i have read
+I read a lot, here is a list of some of the books i have read
 
 ### <ins>Mountaineering</ins>
 <figure>
@@ -54,6 +54,14 @@ I read a lot, here is a list of books i have read
     </figcaption>
 </figure>
 
+<figure>
+    <img src="https://m.media-amazon.com/images/I/410UvJL6xCL._SX351_BO1,204,203,200_.jpg"
+         alt="Challenge the Vertical (My Vertical World)" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Challenge-Vertical-My-World/dp/8393789699" target="_blank">Challenge the Vertical (My Vertical World)</a>
+    </figcaption>
+</figure>
+
 ### <ins>Biography/Memoir</ins>
 
 <figure>
@@ -70,5 +78,76 @@ I read a lot, here is a list of books i have read
          alt="Shoe Dog" width="200" height="309">
     <figcaption>
     <a href="https://en.wikipedia.org/wiki/Shoe_Dog" target="_blank">Shoe Dog</a>
+    </figcaption>
+</figure>
+
+### <ins>Spiritual</ins>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/41RhM+xMgGL._SX324_BO1,204,203,200_.jpg"
+         alt="Apprenticed to a Himalayan Master: A Yogi's Autobiography" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Apprenticed-Himalayan-Master-Yogis-Autobiography/dp/9388754409/" target="_blank">Apprenticed to a Himalayan Master: A Yogi's Autobiography</a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/51D02n+0COL._SX332_BO1,204,203,200_.jpg"
+         alt="Autobiography of a Yogi" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Autobiography-Self-Realization-Fellowship-Paramahansa-Yogananda/dp/0876120826/" target="_blank">Autobiography of a Yogi</a>
+    </figcaption>
+</figure>
+
+### <ins> Fiction </ins>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/51WEQ-ByosL.jpg"
+         alt="A Knight of the Seven Kingdoms: A Song of Ice and Fire" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Knight-of-Seven-Kingdoms-audiobook/dp/B011PVVZYM" target="_blank">A Knight of the Seven Kingdoms: A Song of Ice and Fire</a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/41hlH3HyhdL._SX324_BO1,204,203,200_.jpg"
+         alt="The White Tiger: A Novel" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/White-Tiger-Novel-Aravind-Adiga/dp/1416562605/" target="_blank">The White Tiger: A Novel</a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/51L1V4DpHpL._SX278_BO1,204,203,200_.jpg"
+         alt="Jurassic Park: A Novel" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Jurassic-Park-Novel-Michael-Crichton/dp/0345538986" target="_blank">Jurassic Park: A Novel</a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/41AFWPPAp3L._SY344_BO1,204,203,200_.jpg"
+         alt="The Lost World: A Novel(Jurassic Park)" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Lost-World-Novel-Jurassic-Park/dp/0345538994/" target="_blank">The Lost World: A Novel(Jurassic Park)</a>
+    </figcaption>
+</figure>
+
+### <ins> India </ins>
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/51QoVfcTc4L._SX322_BO1,204,203,200_.jpg"
+         alt="Maximum City: Bombay Lost and Found" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Maximum-City-Bombay-Lost-Found/dp/0375703403/" target="_blank">Maximum City: Bombay Lost and Found</a>
+    </figcaption>
+</figure>
+
+
+<figure>
+    <img src="https://m.media-amazon.com/images/I/51yZzJFTeoL._SX322_BO1,204,203,200_.jpg"
+         alt="Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity" width="200" height="309">
+    <figcaption>
+    <a href="https://www.amazon.com/Behind-Beautiful-Forevers-Mumbai-Undercity/dp/081297932X" target="_blank"> Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity</a>
     </figcaption>
 </figure>
