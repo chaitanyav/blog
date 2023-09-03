@@ -1,7 +1,7 @@
 baseURL = "https://chaitanyav.github.io/"
 languageCode = "en-us"
 enableEmoji = true
-title = "my blog"
+title = "NagaChaitanya Vellanki's blog"
 theme = "hugo_theme_pickles"
 publishDir = "chaitanyav.github.io"
 [params]
@@ -9,6 +9,7 @@ publishDir = "chaitanyav.github.io"
   github = "chaitanyav"
   contact = "mailto:pnagato@protonmail.com"
   linkedin = "nagachaitanya"
+  flickr = "76625390@N03"
   custom_css = ["/css/custom.css"]
 [markup]
   defaultMarkdownHandler = "goldmark"
