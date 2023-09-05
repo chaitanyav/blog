@@ -21,7 +21,7 @@ on `Rational`, we need to provide an implementation for the `add` method  from t
 ```rust
 impl Add for Rational {
     type Output = Self;
-    fn add(self, other: Self) -> Self {
+    fn add(self, other: Self) -> Self::Output {
         let temp_lcm: i32 = lcm(self.den, other.den);
         let temp_num: i32 = (temp_lcm / self.den) * self.num + (temp_lcm / other.den) * other.num;
 
@@ -38,7 +38,7 @@ Similarly, we can also implement the `Sub`, `Div`, `Mul` traits on `Rational` as
 ```rust
 impl Sub for Rational {
     type Output = Self;
-    fn sub(self, other: Self) -> Self {
+    fn sub(self, other: Self) -> Self::Output {
         let temp_lcm: i32 = lcm(self.den, other.den);
         let temp_num: i32 = (temp_lcm / self.den) * self.num - (temp_lcm / other.den) * other.num;
         Rational {
@@ -50,7 +50,7 @@ impl Sub for Rational {
 
 impl Mul for Rational {
     type Output = Self;
-    fn mul(self, other: Self) -> Self {
+    fn mul(self, other: Self) -> Self::Output {
         Rational {
             num: self.num * other.num,
             den: self.den * other.den,
@@ -60,7 +60,7 @@ impl Mul for Rational {
 
 impl Div for Rational {
     type Output = Self;
-    fn div(self, other: Self) -> Self {
+    fn div(self, other: Self) -> Self::Output {
         Rational {
             num: self.num * other.den,
             den: other.num * self.den,
@@ -69,7 +69,7 @@ impl Div for Rational {
 }
 ```
 
-Code demonstrating the arithmetic operators on `Rational` objects (Link to the complete program at [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=aca714dd47077b232af31a3bfcac4be4))
+Code demonstrating the arithmetic operators on `Rational` objects (Link to the complete program at [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=97c46ec0f98f70d3b5298f526b5db179))
 
 ```rust
 fn main() {
