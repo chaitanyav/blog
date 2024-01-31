@@ -5,6 +5,10 @@ date: 2020-08-26T20:28:26-07:00
 
 I like to contribute to open source, here are links to some of my tiny contributions :pray:
 
+* LLVM
+  * https://github.com/search?q=repo%3Allvm%2Fllvm-project+author%3Achaitanyav&type=commits
+* Rust
+  * https://github.com/search?q=org%3Arust-lang+chaitanyav&type=commits
 * FreeBSD
   * [Reduce duplication in sys/*/include files](https://reviews.freebsd.org/D26292)
   * [Improve test coverage for sbuf](https://reviews.freebsd.org/D26220)
