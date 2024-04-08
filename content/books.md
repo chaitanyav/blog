@@ -22,6 +22,7 @@ I read a lot, here is a list of some of the :books: i have read and want to read
 ### <ins>Biography/Memoir</ins> :tennis: :athletic_shoe: :swimming_man:
 - Open: An Autobiography 
 - Shoe Dog 
+- On Writing: A memoir of the craft by Stephen King
 - Faster than Lightning: My Autobiography :open_book:
 - Beneath the Surface: My Story :open_book:
 - No Limits: The Will to Succeed :open_book:
@@ -37,13 +38,15 @@ I read a lot, here is a list of some of the :books: i have read and want to read
 - The Lost World: A Novel(Jurassic Park) 
 - A Death in Tokyo by Keigo Higashino 
 - Newcomer by Keigo Higashino 
+- Real World by Natsuo Kirino
+- Rita Hayworth and Shawshank Redemption by Stephen King
+- Bullet Train by Kotoro Isaka
+- Three Assassins by Kotoro Isaka
 - The Final Curtain by Keigo Higashino :bookmark:
 - The Devotion of Suspect X by Keigo Higashino :bookmark:
 - Salvation of a Saint by Keigo Higashino :bookmark:
 - The Name of the Game is Kidnapping by Keigo Higashino :bookmark:
 - A Midsummer's Equation by Keigo Higashino :bookmark:
-- Bullet Train by Kotoro Isaka 
-- Three Assassins by Kotoro Isaka 
 - The Godfather by Mario Puzo :bookmark:
 - The Sicilian by Mario Puzo :bookmark:
 - Omerta by Mario Puzo :bookmark:
